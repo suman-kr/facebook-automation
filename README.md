@@ -22,6 +22,7 @@ mv geckodriver /usr/bin/
 | Selenium | [http://selenium-python.readthedocs.io/] [PlDb] |
 | BeautifulSoup4 | [https://www.crummy.com/software/BeautifulSoup/bs4/doc/] [PlBs]|
 
+-------------------------------------------------------------------------
 Link for Firefox WebDriver https://github.com/mozilla/geckodriver/releases
 
 Some modification and changes will be updated!!
