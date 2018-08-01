@@ -18,7 +18,7 @@ mv geckodriver /usr/bin/
 ```
 # Libraries Used
 
-| Selenium | http://selenium-python.readthedocs.io/ |
+| Selenium | [http://selenium-python.readthedocs.io/] |
 -------------------------------------------------------------------------
 | BeautifulSoup4 | https://www.crummy.com/software/BeautifulSoup/bs4/doc/ |
 --------------------------------------------------------------------------
