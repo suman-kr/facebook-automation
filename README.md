@@ -1,4 +1,4 @@
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+[![N|Solid]]
 
 # Facebook-Automation
 
