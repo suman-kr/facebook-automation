@@ -28,5 +28,6 @@ mv geckodriver /usr/bin/
 >Some modification and changes will be updated!!
 
 >Continuously running the script may result into logout of your account from "Logged in devices"
+
 [//]: #
 [Web Driver]: <https://github.com/mozilla/geckodriver/releases>
