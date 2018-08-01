@@ -23,8 +23,9 @@ mv geckodriver /usr/bin/
 | BeautifulSoup4 | [https://www.crummy.com/software/BeautifulSoup/bs4/doc/] [PlBs]|
 
 -------------------------------------------------------------------------
-* Link for Firefox WebDriver https://github.com/mozilla/geckodriver/releases
+* [Web Driver] Firefox Web Driver Link
 
 >Some modification and changes will be updated!!
 
 >Continuously running the script may result into logout of your account from "Logged in devices"
+[Web Driver] : <https://github.com/mozilla/geckodriver/releases>
