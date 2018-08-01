@@ -17,7 +17,8 @@ pip install -r setup.py
 mv geckodriver /usr/bin/
 ```
 # Libraries Used
-
+| Plugin | README |
+| ------ | ------ |
 | Selenium | [http://selenium-python.readthedocs.io/] [PlDb] |
 -------------------------------------------------------------------------
 | BeautifulSoup4 | https://www.crummy.com/software/BeautifulSoup/bs4/doc/ |
