@@ -19,8 +19,8 @@ mv geckodriver /usr/bin/
 # Libraries Used
 | Library | README |
 | ------ | ------ |
-| Selenium | [http://selenium-python.readthedocs.io/] |
-| BeautifulSoup4 | [https://www.crummy.com/software/BeautifulSoup/bs4/doc/] |
+| Selenium | [http://selenium-python.readthedocs.io/][PlDb]|
+| BeautifulSoup4 | [https://www.crummy.com/software/BeautifulSoup/bs4/doc/][PlBs]|
 
 -------------------------------------------------------------------------
 * [Web Driver] - Firefox Web Driver Link
