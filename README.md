@@ -1,7 +1,6 @@
 # Facebook-Automation
 
->It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to >
-post status update.
+>It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to post status update.
 >In the background it also scrapes some 'recent posts' and 'recent message's url'.
 >It is only for Testing purposes
 
