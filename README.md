@@ -1,5 +1,3 @@
-[![N|Solid]]
-
 # Facebook-Automation
 
 >It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to post status update.
