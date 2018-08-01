@@ -1,8 +1,8 @@
 # Facebook-Automation
 
-It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to post status update.
-In the background it also scrapes some 'recent posts' and 'recent message's url'.
-It is only for Testing purposes
+>It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to >post status update.
+>In the background it also scrapes some 'recent posts' and 'recent message's url'.
+>It is only for Testing purposes
 
 Platform : Linux 64 bit
 
@@ -23,8 +23,8 @@ mv geckodriver /usr/bin/
 | BeautifulSoup4 | [https://www.crummy.com/software/BeautifulSoup/bs4/doc/] [PlBs]|
 
 -------------------------------------------------------------------------
-Link for Firefox WebDriver https://github.com/mozilla/geckodriver/releases
+Link for Firefox WebDriver [https://github.com/mozilla/geckodriver/releases]
 
-Some modification and changes will be updated!!
+>Some modification and changes will be updated!!
 
-Continuously running the script may result into logout of your account from "Logged in devices"
+>Continuously running the script may result into logout of your account from "Logged in devices"
