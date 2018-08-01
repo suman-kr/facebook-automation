@@ -9,13 +9,13 @@ Platform : Linux 64 bit
 Browser : Firefox by Mozilla
 
 # Commands to setup Libraries
-
+```sh
 apt install python-pip
 
 pip install -r setup.py
 
 mv geckodriver /usr/bin/
-
+```
 # Libraries Used
 
 Selenium --- http://selenium-python.readthedocs.io/
