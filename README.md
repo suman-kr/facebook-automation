@@ -1,3 +1,5 @@
+[![python](https://img.shields.io/badge/Python-2.7--3.6-green.svg?style=style=flat-square)](https://www.python.org/downloads/)
+
 # Facebook-Automation
 
 >It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to post status update.
