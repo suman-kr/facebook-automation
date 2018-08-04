@@ -4,7 +4,7 @@
 # Facebook-Automation
 
 >It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to post status update.
->In the background it also scrapes some 'recent posts' , 'recent message's url' and Active friends.
+>In the background it also scrapes some 'recent posts' , 'recent message's url' and 'Active friends'.
 >It is only for Testing purposes
 
 Platform : Linux 64 bit
