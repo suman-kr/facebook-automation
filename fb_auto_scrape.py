@@ -81,6 +81,15 @@ class FacebookAutomation(unittest.TestCase):
         for i in cont.items():
             print i
 
+        print "---------------------------------------------------------------------------"
+        print "Active Friends"
+        print "---------------------------------------------------------------------------"
+        online = soup.findAll('div' , attrs = {'class' : '_55lr'})
+        for active in online :
+            driver.implicitly_wait(15);
+            for i in active:
+                print i
+
         assert "No results found." not in driver.page_source
 
 
