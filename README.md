@@ -8,7 +8,6 @@ In the background it also scrapes some 'recent posts' , 'recent message's url' a
 It is only for Testing purposes
 
 Platform : Linux 64 bit
-
 Browser : Firefox by Mozilla
 
 # Commands to setup Libraries
