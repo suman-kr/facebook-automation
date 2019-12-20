@@ -1,6 +1,6 @@
 [![python](https://img.shields.io/badge/Python-2.7--3.6-green.svg?style=style=flat-square)](https://www.python.org/downloads/)
 [![Selenium](https://img.shields.io/badge/Selenium-3.141.0-lightgrey.svg)](https://pypi.org/project/selenium/)
-[![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup--blue.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4.4.0-yellow.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 # Facebook-Automation
 
 >It automates Facebook login process by opening an instance of the native browser(in this case:Firefox) and enables the user to post status update.
