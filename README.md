@@ -1,5 +1,5 @@
 [![python](https://img.shields.io/badge/Python-2.7--3.6-green.svg?style=style=flat-square)](https://www.python.org/downloads/)
-[![Selenium](https://img.shields.io/badge/Selenium--lightgrey.svg)](https://pypi.org/project/selenium/)
+[![Selenium](https://img.shields.io/badge/Selenium-3.141.0-lightgrey.svg)](https://pypi.org/project/selenium/)
 [![facebook](https://img.shields.io/badge/facebook--blue.svg)](https://www.facebook.com/)
 # Facebook-Automation
 
